@@ -1,0 +1,10 @@
+{
+    "dataset": "cora",
+    "best_hyperparameters": {
+        "lr": 0.002,
+        "beta": 0.6,
+        "epochs": 1000,
+        "F1": 0.5594,
+        "file_path": "result_e2e\\cora\\20250529-111811.json"
+    }
+}

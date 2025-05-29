@@ -1,0 +1,125 @@
+{
+    "lr": 0.002,
+    "beta": 0.6,
+    "epochs": 1000,
+    "statistics": {
+        "avg_CH_score": 12.4244,
+        "avg_modularity": 0.6991,
+        "avg_score": 8.6735,
+        "avg_avg_conductance": 0.0783,
+        "avg_F1": 0.5594,
+        "avg_no_of_clusters": 5.5,
+        "avg_NMI": 0.4873,
+        "avg_ARI": 0.4314,
+        "std_CH_score": 0.7732,
+        "std_modularity": 0.029,
+        "std_score": 0.4697,
+        "std_avg_conductance": 0.0058,
+        "std_F1": 0.0445,
+        "std_no_of_clusters": 1.2042,
+        "std_NMI": 0.0475,
+        "std_ARI": 0.0499
+    },
+    "details": {
+        "seed_0": {
+            "no_of_clusters": 4,
+            "modularity": 0.6565,
+            "avg_conductance": 0.0804,
+            "NMI": 0.3814,
+            "ARI": 0.3292,
+            "F1": 0.4647,
+            "CH_score": 12.8506,
+            "score": 8.4364189
+        },
+        "seed_1": {
+            "no_of_clusters": 8,
+            "modularity": 0.7565,
+            "avg_conductance": 0.0834,
+            "NMI": 0.5313,
+            "ARI": 0.4789,
+            "F1": 0.5973,
+            "CH_score": 11.5605,
+            "score": 8.745518249999998
+        },
+        "seed_2": {
+            "no_of_clusters": 5,
+            "modularity": 0.6788,
+            "avg_conductance": 0.0704,
+            "NMI": 0.4971,
+            "ARI": 0.4364,
+            "F1": 0.5634,
+            "CH_score": 12.0586,
+            "score": 8.18537768
+        },
+        "seed_3": {
+            "no_of_clusters": 5,
+            "modularity": 0.7203,
+            "avg_conductance": 0.0752,
+            "NMI": 0.5173,
+            "ARI": 0.4714,
+            "F1": 0.5895,
+            "CH_score": 13.4952,
+            "score": 9.720592560000002
+        },
+        "seed_4": {
+            "no_of_clusters": 5,
+            "modularity": 0.6971,
+            "avg_conductance": 0.0781,
+            "NMI": 0.4674,
+            "ARI": 0.4017,
+            "F1": 0.5243,
+            "CH_score": 12.2263,
+            "score": 8.522953730000001
+        },
+        "seed_5": {
+            "no_of_clusters": 7,
+            "modularity": 0.7228,
+            "avg_conductance": 0.0844,
+            "NMI": 0.4816,
+            "ARI": 0.4175,
+            "F1": 0.5438,
+            "CH_score": 11.16,
+            "score": 8.066448
+        },
+        "seed_6": {
+            "no_of_clusters": 6,
+            "modularity": 0.7063,
+            "avg_conductance": 0.0728,
+            "NMI": 0.5163,
+            "ARI": 0.4449,
+            "F1": 0.5826,
+            "CH_score": 12.2983,
+            "score": 8.68628929
+        },
+        "seed_7": {
+            "no_of_clusters": 6,
+            "modularity": 0.7098,
+            "avg_conductance": 0.0766,
+            "NMI": 0.547,
+            "ARI": 0.4923,
+            "F1": 0.6131,
+            "CH_score": 12.5055,
+            "score": 8.8764039
+        },
+        "seed_8": {
+            "no_of_clusters": 4,
+            "modularity": 0.6619,
+            "avg_conductance": 0.072,
+            "NMI": 0.5043,
+            "ARI": 0.4731,
+            "F1": 0.6001,
+            "CH_score": 13.8631,
+            "score": 9.17598589
+        },
+        "seed_9": {
+            "no_of_clusters": 5,
+            "modularity": 0.6805,
+            "avg_conductance": 0.0892,
+            "NMI": 0.4296,
+            "ARI": 0.369,
+            "F1": 0.5153,
+            "CH_score": 12.2255,
+            "score": 8.31945275
+        }
+    }
+}
